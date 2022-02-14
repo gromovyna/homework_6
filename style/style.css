@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto.ttf);
+    color: #000;
+}
+body{
+    position: relative;
+    width: 100%;
+    background-color: #EBEBEB;
+    font-family: "Roboto";
+}
+a{
+    text-decoration: none;
+    color: #000;  
+}
+.first-screen-menu{
+    margin-top:79px;
+    margin-left: 419px;
+    height: 16px;
+    left: 418px;
+    top: 79px;
+}
+li{
+    display: inline;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em; 
+}
+li:not(:first-child){
+    margin-left: 42px;
+}
+h1{
+    margin-top: 257px;
+    margin-left: 418px;
+    top: 257px;
+    font-size: 48px;
+    line-height: 79px;
+}
+.first-p{
+    margin-top: 60px;
+    margin-left:420px ;
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    font-size: 16px;
+    line-height: 26px;
+}
+button{
+    width: 228px;
+    height: 62px;
+    margin-left: 418px;
+    margin-top: 65px;
+    background-color:#500E0A;
+    border-radius: 7px;
+    -webkit-box-shadow: 30px 30px 25px 1px rgba(80, 34, 54, 0.27); 
+    -moz-box-shadow: 30px 30px 25px 1px rgba(80, 34, 54, 0.27); 
+    box-shadow: 30px 30px 25px 1px rgba(80, 34, 54, 0.27);
+}
+.white-font{
+    color: white;
+}
+.about-myself{ 
+    margin-top: 144px;
+    width: 100%;
+    height: 609px;
+    background-color: #fff; 
+}
+h2{
+    padding-top: 112px;
+    padding-left: 758px;
+    width: 500px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 50px;
+}
+.about-me-data
+{
+    padding-top: 50px;
+    padding-left: 690px;
+    color: #727272;
+}
+.Rectangle{
+    display: block;
+    background-color: #500E0A;
+    height: 250px;
+}
+img{
+     height: 49.99989700317383px;
+     width: 46.66664123535156px;
+}
+.info{
+    display:inline-block;
+    width: 15px;
+    height: 19px;
+    padding-left: 20px;
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}.card{
+    display: inline-block;
+    padding-left: 139px;
+    padding-top: 75px;
+}
+.about-my-work{
+    background-color: #EBEBEB;
+    height: 1004px; ;
+}iframe{
+    width: 1110px;
+    height: 600px;
+    padding-left: 405px;
+    padding-top: 47px;  
+}
+footer{
+    width: 100%;
+    height: 151px;
+    left: 0px;
+    top: 2313px;
+    background: #500E0A;
+}
+h3{
+    display: inline-block;
+    width: 150px;
+    height: 19px;
+    padding-left: 406px;
+    padding-top:50px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+footer p{
+    width: 193px;
+    height: 12px;
+    padding-left: 406px;
+    padding-top: 20px;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+
+}
